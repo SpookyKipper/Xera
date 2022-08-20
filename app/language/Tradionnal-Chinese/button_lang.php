@@ -11,7 +11,7 @@ $lang['manage'] = '管理';
 $lang['deactivate'] = '停用';
 $lang['redirect'] = '現在導向';
 $lang['check_domain'] = '檢查網域';
-$lang['configure'] = '設置';
+$lang['configure'] = '設定';
 $lang['subdomain'] = '子網域';
 $lang['custom_domain'] = '自訂網域';
 $lang['check_availibilty'] = '檢查是否可用';
@@ -23,7 +23,7 @@ $lang['resend_email'] = '重發郵件';
 $lang['logout'] = '登出';
 $lang['control_panel'] = '控制面板';
 $lang['file_manager'] = '檔案管理員';
-$lang['reactivate'] = '重新激活';
+$lang['reactivate'] = '重新啟用';
 $lang['settings'] = '設定';
 $lang['open_ticket'] = '打開服務單';
 $lang['delete'] = '刪除';
@@ -32,6 +32,6 @@ $lang['here'] = '這裡';
 $lang['done'] = '完成';
 $lang['close_ticket'] = '關閉服務單';
 $lang['add_reply'] = '新增回覆';
-$lang['redirect_now'] = '現在導向';
+$lang['redirect_now'] = '重新定向';
 
 ?>

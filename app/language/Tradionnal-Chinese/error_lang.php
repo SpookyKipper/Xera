@@ -10,7 +10,7 @@ $lang['invalid_email_pass'] = '密碼或是電子郵件錯誤';
 $lang['domain_not_available'] = '此網域不可用.';
 $lang['fill_domain_field'] = '請填寫你要的網域名.';
 $lang['deactivation_error'] = '無法停用此帳戶.';
-$lang['reactivation_error'] = '無法激活此帳戶.';
+$lang['reactivation_error'] = '無法啟動此帳戶.';
 $lang['cant_reactivate'] = '你已達到最多免費帳戶的上限.';
 
 ?>
