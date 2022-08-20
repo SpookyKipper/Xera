@@ -3,7 +3,7 @@
 $lang['login_to_account'] = '登入到我的帳戶';
 $lang['i_forget_password'] = '我忘記密碼';
 $lang['dont_have_account'] = '還沒有帳戶?';
-$lang['remember_me_device'] = '在這裝置記得我的使用者名稱';
+$lang['remember_me_device'] = '在這裝置記住我的使用者名稱';
 $lang['create_an_account'] = '建立一個帳戶';
 $lang['i_agree_to'] = '我同意';
 $lang['tos'] = '服務條款(TOS)';
