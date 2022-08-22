@@ -33,7 +33,7 @@ class Account extends CI_Model
 		$res = $this->fetch(['for' => $for, 'status' => 'active']);
 		if($res !== false)
 		{
-			return $res;
+			return count($res);
 		}
 		return false;
 	}
